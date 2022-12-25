@@ -89,8 +89,8 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
 
   assets:
-    -assets/images/
+    - assets/images/
   fonts:
-    -family: PatuaOne
+    - family: PatuaOne
       fonts:
-        -asset: assets/fonts/PatuaOne-Regular.ttf
+        - asset: assets/fonts/PatuaOne-Regular.ttf
